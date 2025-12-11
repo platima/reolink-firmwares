@@ -1,1 +1,0 @@
-"v3.1.0.4163_2505282446 is a special firmware. The known and publicly available information is that this firmware enables the RLC-1240A to support webhooks. This might be helpful for you when testing RTSP."
