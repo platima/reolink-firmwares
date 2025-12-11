@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=platima.reolink-firmwares" height="20" />
+
 # Reolink Firmware Collection
 
 This repository contains firmware files for various Reolink camera models that I own. It serves as a personal archive for firmware versions, including both current and historical releases.
