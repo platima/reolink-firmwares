@@ -1,0 +1,7 @@
+Improve smart detection, adding pet recognition.
+Improve self-calibration.
+Enhance tracking performance.
+Optimize QR code scanning functionality.
+Improve recording feature.
+Address inaccuracies in guard position.
+Resolve other known bugs.

@@ -1,0 +1,12 @@
+Upgraded ONVIF protocol to version 21.06
+Solved the issue of no audio output on some platforms using ONVIF
+Added the fixed FPS setting: The FPS won't be reduced automatically at night
+Added multiple selection for the iFrame setting
+Solved the problem that FTP parameters do not take effect under WEB access
+Upgraded AI model to reduce false negatives and false positives
+Added the function of synchronously prohibiting Push after disabling the UID
+Added the security policy of login lockout
+Solved some bugs of FTP
+Solved some bugs of Email alert
+Solved the problem of failing to adjust the threshold setting
+Modified the display script of anti-flicker

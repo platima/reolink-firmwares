@@ -1,0 +1,4 @@
+Updated the Web Client
+The device name for the camera is not allowed to set to blank
+Support setting time when the camera is connected by ONVIF (including time, time zone; DST setting is not supported)
+Optimized AF focusing function for RLC-822A
